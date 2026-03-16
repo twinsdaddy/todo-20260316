@@ -9,7 +9,7 @@ const translations = {
     emptyState: 'No tasks yet. Add one above!'
   },
   ko: {
-    title: '나의 할 일',
+    title: '나의 오늘 할 일',
     placeholder: '무엇을 해야 하나요?',
     addBtn: '추가',
     emptyState: '아직 할 일이 없습니다. 항목을 추가해보세요!'
